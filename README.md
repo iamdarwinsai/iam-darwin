@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-darwin&label=Profile%20views&color=0e75b6&style=flat" alt="iam-darwin" /> </p>
 
-- 🌱 I’m currently learning **Full stack**
+- 🔭 I’m currently working on **Twitter Backend**
+
+- 💬 Ask me about **BackEnd**
+
+- 📫 How to reach me **darushyam143@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
